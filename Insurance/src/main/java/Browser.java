@@ -9,7 +9,7 @@ public class Browser {
 	public void test() {
 		// TODO Auto-generated method stub
 		
-		
+		//varun mishra
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\rmanglik\\OneDrive - Itron\\Desktop\\Images\\Katalon_Studio_Windows_64-6.3.3\\configuration\\resources\\drivers\\chromedriver_win32\\chromedriver.exe");
 	    
 				
